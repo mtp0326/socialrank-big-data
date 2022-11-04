@@ -1,0 +1,5 @@
+Nodes common betweeen two top-10 lists: 115485051, 116485573, 813286, 11348282, 7861312, 40981798, 15439395, 15485441, 
+
+Nodes exculsive to computation with back-links: 90420314, 16303106, 
+
+Nodes exculsive to computation without back-links: 17093617, 14230524, 
